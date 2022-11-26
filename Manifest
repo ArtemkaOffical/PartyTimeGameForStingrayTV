@@ -1,0 +1,7 @@
+{
+	"id": "PartyTime",
+	"display":{ 
+        "name":"Караоке","icon": "resources/icon.png"
+    },
+	"application": { }
+}
